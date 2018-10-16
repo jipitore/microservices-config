@@ -3,7 +3,8 @@ server:
 
 logging:
   level:
-    com.sivalabs: debug
+    com:
+      sivalabs: debug
 
 spring:
   datasource:
